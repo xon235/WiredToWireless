@@ -1,0 +1,2 @@
+rootProject.name = "Wired to Wireless"
+include ':app'
