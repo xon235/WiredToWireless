@@ -2,4 +2,5 @@
     <string name="app_name">Wired to Wireless</string>
     <string name="find_controller">Find Controller</string>
     <string name="open_logging">Open Logging</string>
+    <string name="refresh_device_list">Refresh Device List</string>
 </resources>
