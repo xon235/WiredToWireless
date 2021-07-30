@@ -3,4 +3,5 @@
     <string name="find_controller">Find Controller</string>
     <string name="open_logging">Open Logging</string>
     <string name="refresh_device_list">Refresh Device List</string>
+    <string name="connect_to_first_device">Connect to first device</string>
 </resources>
