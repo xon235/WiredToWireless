@@ -9,7 +9,6 @@ import android.view.View
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import java.lang.Integer.max
 
 class LoggingActivity : AppCompatActivity() {
 
@@ -131,11 +130,4 @@ class LoggingActivity : AppCompatActivity() {
 
     private fun isDpadDevice(source: Int) =
         source and InputDevice.SOURCE_DPAD == InputDevice.SOURCE_DPAD
-
-    fun TextView.appendWithScrollToBottom(text: String) {
-        append(text)
-        post {
-            scrollTo(0, max(0, layout.getLineTop(lineCount) - height))
-        }
-    }
 }
