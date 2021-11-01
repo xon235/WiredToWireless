@@ -5,7 +5,7 @@ Enable wired USB gamepad to be used wirelessly using Android's [BluetoothHidDevi
 ### Recommended Readings
 
 USB
-* [USB 2.0 Specification](https://www.usb.org/document-library/usb-20-specification) (Chapter 1 ~ 5)
+* [USB 2.0 Specification](https://www.usb.org/document-library/usb-20-specification) (Chapter 1 ~ 5 and 9)
 * [Device Class Definition for Human Interface Devices (HID)](https://www.usb.org/document-library/device-class-definition-hid-111) (Chapter 1 ~ 8)
 
 Bluetooth
